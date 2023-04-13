@@ -131,6 +131,7 @@ phrases = {
         ["LanguageCode"] = "Código de idioma",
         ["TariffRateHistory"] = "Histórico de preços",
         ["MediumRatePrice"] = "Preço médio",
+        ["Tax"] = "Preço inclui taxa de",
         ["EnergyRateUpdate"] = "Atualização do preço",
         ["VariableUpdate"] = "Atualização de variações",
         ["MissingTranslation"] = "Tradução inexistente para este idioma",
